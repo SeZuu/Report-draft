@@ -69,8 +69,90 @@
 ### [Capítulo I: Introducción](#capc3adtulo-i-introduccic3b3n-1)
 
 - [1.1. Startup Profile](#11-startup-profile)
+
+En el texto presente a continuación, vamos a describir de manera detallada nuestra idea de startup.
+
   - [1.1.1. Descripción de la Startup](#111-description-de-la-startup)
+ 
+Esta empresa ha desarrollado una plataforma digital que funciona como intermediario entre propietarios de vehículos y posibles arrendatarios. La plataforma integra vehículos bajo nuestro nombre, actuando como una flota virtual, pero sin la necesidad de una inversión inicial en vehículos. Nuestro modelo de negocio se basa en conectar a propietarios con arrendatarios interesados, ofreciendo precios competitivos y beneficios para ambas partes. Los propietarios reciben una remuneración únicamente cuando su vehículo es alquilado, lo que garantiza un enfoque eficiente y rentable.
+
+### Misión: 
+Nuestra misión es facilitar el acceso a vehículos de alquiler de alta calidad, conectando a propietarios y arrendatarios de manera segura y eficiente. Nos esforzamos por ofrecer un servicio que maximice el valor para ambas partes, proporcionando una plataforma confiable y accesible para todos nuestros usuarios.
+
+### Visión: 
+Convertirnos en la plataforma líder en el mercado de alquiler de vehículos en Perú, reconocidos por nuestra innovación y eficiencia en conectar a propietarios y arrendatarios. Queremos ser la referencia principal para aquellos que buscan alquilar un vehículo sin complicaciones, ofreciendo un servicio integral y de alta calidad.
+
+
   - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+
+  <table style="text-align:center">
+    <thead>
+        <tr>
+            <th>Integrantes</th>
+            <th>Descripción</th>
+            <th>Conocimientos</th>
+        </tr>
+    </thead>
+    <body >
+        <tr>
+            <!-- DATOS del integrante 1-->
+            <td> 
+            <img src="/img/foto01.png" width="100" height="100">
+            <br>Daiki Oscar Oshiro Yamashita u20201f846
+            </td>
+            <!-- DESCRIPCIÓN del integrante 1-->
+            <td> Soy estudiante de la carrera de Ingenieria de Software. Tengo interés en obtener nuevos conocimientos relacionados con mi carrera que me sean de utilidad para el futuro. </td>
+            <!-- CONOCIMIENTOS del integrante 1-->
+            <td> Cuento con el conocimiento de diversos lenguajes HTML, Python, C++, C# y MySQL. </td>
+        </tr>
+        <tr>
+            <!-- DATOS del integrante 2-->
+            <td> 
+            <img src="/img/foto02.png" width="100" height="100">
+            <br>Sebastian Gabriel Zuniga Calle u20221b479
+            </td>
+            <!-- DESCRIPCIÓN del integrante 2-->
+            <td> Soy estudiante de la carrera de Ingenieria de Software. Mis intereses se basan en aprender nuevas tecnologías, desarrollo en web y aplicaciones. </td>
+            <!-- CONOCIMIENTOS del integrante 2-->
+            <td> Poseo conocimientos en los lenguajes de programación: C++, Python, JavaScript y C#. Listo para ayudar en el desarrollo y solucion de problemas. </td>
+        </tr>
+        <tr>
+            <!-- DATOS del integrante 3-->
+            <td> 
+            <img src="/img/foto03.png" width="100" height="100">
+            <br>Ario Joel Chavez Uribe u202213468
+            </td>
+            <!-- DESCRIPCIÓN del integrante 3-->
+            <td> Soy estudiante de la carrera de Ingenieria de Software. Tengo interés en aprender sobre nuevas tecnologías, el desarrollo web y de aplicaciones. </td>
+            <!-- CONOCIMIENTOS del integrante 3-->
+            <td> Poseo conocimientos en los lenguajes de programación: C++, Python, HTML y MySQL. Útiles para el desarrollo y solucion del proyecto. </td>
+        </tr>
+        <tr>
+            <!-- DATOS del integrante 4-->
+            <td> 
+            <img src="/img/foto04.png" width="100" height="100">
+            <br>Aaron Alejandro Cruz Ticona
+            </td>
+            <!-- DESCRIPCIÓN del integrante 4-->
+            <td> Me encuentro inmerso en la carrera de Ingenieria de Software. ,e considero una persona curiosa, lo que me lleva a tener constante interes en el aprender nuevas cosas y espero hacerlo en este curso. </td>
+            <!-- CONOCIMIENTOS del integrante 4-->
+            <td> Personalmente, poseo conocimientos en lo que a el mundo de la programación se refiere: En C++, Python, HTML, CSS, SQL, entre otros a futuro.</td>
+        </tr>
+        <tr>
+            <!-- DATOS del integrante 5-->
+            <td> 
+            <img src="/img/foto05.png" width="100" height="100">
+            <br>Gabriel Alejandro Rivera Ayala u202223279
+            </td>
+            <!-- DESCRIPCIÓN del integrante 5-->
+            <td> Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas.</td>
+            <!-- CONOCIMIENTOS del integrante 5-->
+            <td> He desarrollado proyectos en C++, Python, HTML, SQL y C#. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo.</td>
+        </tr>
+    </body>
+</table>
+<br>
+
 - [1.2. Solution Profile](#12-solution-profile)
   - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
   - [1.2.2 Lean UX Process](#122-lean-ux-process)
@@ -182,6 +264,17 @@
 ### 1.1.2. Perfiles de integrantes del equipo
 
 ## 1.2. Solution Profile
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+Why do we use it?
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+
+
+Where does it come from?
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by 
 
 ### 1.2.1. Antecedentes y problemática
 
